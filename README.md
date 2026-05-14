@@ -53,9 +53,8 @@ The models were evaluated based on the **Real Price** scale (after reversing the
 1. **Clone the repository:**
 ```
 git clone https://github.com/Mohammadhkabiri/Real-Estate-Valuation-ML.git
-
-2. **Install dependencies: Ensure you have Python installed, then run:**
 ```
+2. **Install dependencies: Ensure you have Python installed, then run:**
 pip install -r requirements.txt
 
 3. **Execute the Notebooks:**
