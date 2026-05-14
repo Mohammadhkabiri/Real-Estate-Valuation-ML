@@ -49,21 +49,24 @@ The models were evaluated based on the **Real Price** scale (after reversing the
 
 
 ## ⚙️ How to Run the Project
+
 1. **Clone the repository:**
-   
 ```bash
 git clone https://github.com/Mohammadhkabiri/Real-Estate-Valuation-ML.git
 
- 2. **Install dependencies:Ensure you have Python installed, then run:**
-```bash
-   pip install -r requirements.txt
+2. **Install dependencies: Ensure you have Python installed, then run:**
+bash
+pip install -r requirements.txt
 
 3. **Execute the Notebooks:**
-Run cleandata.ipynb first to generate the cleaned dataset.
-Run training.ipynb to train the models and reproduce the results.
-🛠 Technologies Used
-Language: Python
-Libraries: Pandas, NumPy, Scikit-Learn, XGBoost, Optuna, Matplotlib, Seaborn
-Environment: Jupyter Notebook
-💡 Conclusion
-Reaching an R^2 of 0.92 in real estate pricing is considered highly accurate, capturing the majority of variance without overfitting. This project demonstrates proficiency in standardizing messy data, applying rigorous statistical transformations, and implementing state-of-the-art machine learning optimization techniques
+Run `cleandata.ipynb` first to generate the cleaned dataset.
+Run `training.ipynb` to train the models and reproduce the results.
+
+## 🛠 Technologies Used
+**Language:** Python
+**Libraries:** Pandas, NumPy, Scikit-Learn, XGBoost, Optuna, Matplotlib, Seaborn
+**Environment:** Jupyter Notebook
+
+## 💡 Conclusion
+Reaching an $R^2$ of 0.92 in real estate pricing is considered highly accurate, capturing the majority of variance without overfitting. This project demonstrates proficiency in standardizing messy data, applying rigorous statistical transformations, and implementing state-of-the-art machine learning optimization techniques.
+
