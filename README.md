@@ -47,7 +47,6 @@ The models were evaluated based on the **Real Price** scale (after reversing the
 └── README.md                   # Project documentation
 
 
-
 ## ⚙️ How to Run the Project
 
 1. **Clone the repository:**
