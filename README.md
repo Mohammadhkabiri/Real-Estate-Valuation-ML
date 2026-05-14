@@ -73,5 +73,3 @@ pip install -r requirements.txt
 
 ## 💡 Conclusion
 Reaching an R<sup>2</sup> of 0.92 in real estate pricing is considered highly accurate, capturing the majority of variance without overfitting. This project demonstrates proficiency in standardizing messy data, applying rigorous statistical transformations, and implementing state-of-the-art machine learning optimization techniques.
-
-این نسخه کاملاً بدون خطا در گیت‌هاب نمایش داده می‌شود و ظاهری بسیار حرفه‌ای دارد.
